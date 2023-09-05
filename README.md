@@ -18,6 +18,10 @@ The Bondi Website Project is a fictional website for a creative agency that spec
 
 The project uses HTML, and CSS, along with the Bootstrap framework for responsive design and styling.
 
+## Demo   <!-- Added Demo Section -->
+
+You can check out a live demo of Bondi [here](https://mohamedmosilhy.github.io/Bondi-Website-Project/).
+
 ## Project Structure
 
 The project files and directories are structured as follows:
